@@ -12,6 +12,12 @@ Link do repositório do [Frontend](https://github.com/gxstavomiguel/ecommerce-fr
     
 -   **TypeScript**
 
+-   **Java**
+  
+-   **Spring**
+
+-   **PostgreSQL**
+
 ## Funcionalidades
 
 -   ✅ Navegação entre diferentes rotas
